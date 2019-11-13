@@ -1,0 +1,5 @@
+pyserial
+PyMySQL
+datetime
+pytz
+apscheduler

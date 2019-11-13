@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+/venv
+/arduino/.pioenvs
+/arduino/.gcc-flags.json
+/arduino/.clang_complete
+/website
